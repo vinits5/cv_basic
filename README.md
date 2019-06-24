@@ -1,6 +1,6 @@
 # cv_basic
 This repository contains functions for basic operations in Computer Vision in C++ & python.
-Reference for these codes is Szeliski Book ![Link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+Reference for these codes is Szeliski Book [Link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
 ### Run C++ code:
 1. *cd cpp*
